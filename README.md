@@ -22,7 +22,7 @@ The goal is to build an **end-to-end, production-ready machine learning system**
 ---
 
 ## 🧱 Architecture Overview
-
+![Architecture Diagram](architecture.png)
 ---
 
 ## 🛠️ Tech Stack
